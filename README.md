@@ -47,7 +47,7 @@ Thermal Camera Readouts (INPUT)
 Servo Commands (OUTPUT)
 
 ### Block Diagram
-![Sid block diagram](Block Diagram.png)
+[Sid block diagram](Block Diagram.png)
 
 ## Challenges
 
@@ -65,17 +65,17 @@ Servo Commands (OUTPUT)
 
 ## Completed Work
 
-![Sid video](IMG_1027.mp4)
-![Sid picture 2](IMG_1033.JPG)
-![Sid picture 3](IMG_1038.JPG)
-![Sid picture 4](IMG_1039.JPG)
-![Sid picture 5](IMG_1042.JPG)
+[Sid video](IMG_1027.mp4)
+[Sid picture 1](IMG_1033.JPG)
+[Sid picture 2](IMG_1038.JPG)
+[Sid picture 3](IMG_1039.JPG)
+[Sid picture 4](IMG_1042.JPG)
 
 ## References and links
 
-[Showcase writeup](Presentation Writeup V2.pdf)
-[Inspiration and initial design](http://www.instructables.com/id/DIY-Spider-RobotQuad-robot-Quadruped/)
-[Gait inspiration](https://makezine.com/2016/11/22/robot-quadruped-arduino-program/)
-[Inverse kinematics](https://oscarliang.com/inverse-kinematics-implementation-hexapod-robots/)
-[FeatherWing documentation](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-8-channel-pwm-or-servo-featherwing.pdf)
-[IR Camera documentation](https://www.adafruit.com/product/3538)
+- [Showcase writeup](Presentation Writeup V2.pdf)
+- [Inspiration and initial design](http://www.instructables.com/id/DIY-Spider-RobotQuad-robot-Quadruped/)
+- [Gait inspiration](https://makezine.com/2016/11/22/robot-quadruped-arduino-program/)
+- [Inverse kinematics](https://oscarliang.com/inverse-kinematics-implementation-hexapod-robots/)
+- [FeatherWing documentation](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-8-channel-pwm-or-servo-featherwing.pdf)
+- [IR Camera documentation](https://www.adafruit.com/product/3538)
