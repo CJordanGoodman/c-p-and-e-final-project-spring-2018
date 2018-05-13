@@ -46,8 +46,8 @@ In the end, we successfully created a four-legged robot which can operate autono
 Thermal Camera Readouts (INPUT)
 Servo Commands (OUTPUT)
 
-### TODO
-Add a block diagram showing how all those pieces are connected.
+### Block Diagram
+![Sid block diagram](Block Diagram.png)
 
 ## Challenges
 
@@ -57,21 +57,25 @@ Add a block diagram showing how all those pieces are connected.
 - On the day of the presentation, we had a last minute failure in our voltage converter, and as a result had to swap out the lightweight rechargable 12V battery for a 6V AA battery pack.
 
 ## Timeline
-
-What did you do in each of the past five weeks?
-
-- Week 1: Write proposal
-- Week 2: 
-- Week 3:
-- Week 4:
-- Week 5: Present!
+- Week 1: Proposal written
+- Week 2: First iteration of spider body and legs printed and assembled. Electronic parts acquired, documentation studied.
+- Week 3: Redesign of spider body and legs. Circuitry created.
+- Week 4: Second iteration of spider body and legs printed and assembled. Basic tests with electronics. Programming begins. Debugging of most noticeable issues.
+- Week 5: Programming completed. Debugging continued. Presented.
 
 ## Completed Work
 
-Photos and videos of your completed final project!
+![Sid video](IMG_1027.mp4)
+![Sid picture 2](IMG_1033.JPG)
+![Sid picture 3](IMG_1038.JPG)
+![Sid picture 4](IMG_1039.JPG)
+![Sid picture 5](IMG_1042.JPG)
 
 ## References and links
 
-**Include a link to your final showcase one-pager here in PDF format.**
-
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+[Showcase writeup](Presentation Writeup V2.pdf)
+[Inspiration and initial design](http://www.instructables.com/id/DIY-Spider-RobotQuad-robot-Quadruped/)
+[Gait inspiration](https://makezine.com/2016/11/22/robot-quadruped-arduino-program/)
+[Inverse kinematics](https://oscarliang.com/inverse-kinematics-implementation-hexapod-robots/)
+[FeatherWing documentation](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-8-channel-pwm-or-servo-featherwing.pdf)
+[IR Camera documentation](https://www.adafruit.com/product/3538)
