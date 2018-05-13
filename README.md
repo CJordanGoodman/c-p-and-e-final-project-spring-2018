@@ -47,7 +47,7 @@ Thermal Camera Readouts (INPUT)
 Servo Commands (OUTPUT)
 
 ### Block Diagram
-[Sid block diagram](Block Diagram.png)
+![Sid block diagram](Block Diagram.png)
 
 ## Challenges
 
@@ -65,11 +65,11 @@ Servo Commands (OUTPUT)
 
 ## Completed Work
 
-[Sid video](IMG_1027.mp4)
-[Sid picture 1](IMG_1033.JPG)
-[Sid picture 2](IMG_1038.JPG)
-[Sid picture 3](IMG_1039.JPG)
-[Sid picture 4](IMG_1042.JPG)
+- ![Sid video](IMG_1027.mp4)
+- ![Sid picture 1](IMG_1033.JPG)
+- ![Sid picture 2](IMG_1038.JPG)
+- ![Sid picture 3](IMG_1039.JPG)
+- ![Sid picture 4](IMG_1042.JPG)
 
 ## References and links
 
