@@ -47,7 +47,7 @@ Thermal Camera Readouts (INPUT)
 Servo Commands (OUTPUT)
 
 ### Block Diagram
-![Sid block diagram](Block Diagram.png)
+![Sid block diagram](Block_Diagram.png)
 
 ## Challenges
 
@@ -73,7 +73,7 @@ Servo Commands (OUTPUT)
 
 ## References and links
 
-- [Showcase writeup](Presentation Writeup V2.pdf)
+- [Showcase writeup](Presentation_Writeup_V2.pdf)
 - [Inspiration and initial design](http://www.instructables.com/id/DIY-Spider-RobotQuad-robot-Quadruped/)
 - [Gait inspiration](https://makezine.com/2016/11/22/robot-quadruped-arduino-program/)
 - [Inverse kinematics](https://oscarliang.com/inverse-kinematics-implementation-hexapod-robots/)
